@@ -1,2 +1,2 @@
-# Hello-World
-Just another repository
+# SS004.K23 - Hello World
+A project from Group 4 - SS004.K23 with love...
